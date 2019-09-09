@@ -8,6 +8,6 @@ The player is confined to the board, and may move horizontally or vertically ont
 
 
 
-Full detailed report : 
+Full detailed report (in French) : 
 
 https://drive.google.com/open?id=1b-t5Rv64HJiesu0DxlVdDuuPSLIwB6Z7
