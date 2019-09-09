@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1461007558 source:c:\users\selin\onedrive\documents\graphes\graphic.cpp
+	"graphic.h"
+
+1461007558 c:\users\selin\onedrive\documents\graphes\graphic.h
+	<allegro.h>
+	<string>
+	<iostream>
+
+1461012935 source:c:\users\selin\onedrive\documents\graphes\maze.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	<fstream>
+	<iomanip>
+
+1461177740 c:\users\selin\onedrive\documents\graphes\maze.h
+	<vector>
+	<string>
+
+1461007918 c:\users\selin\onedrive\documents\graphes\utils\console.h
+	<iostream>
+
+1461007918 c:\users\selin\onedrive\documents\graphes\utils\coord.h
+
+1461007918 source:c:\users\selin\onedrive\documents\graphes\utils\console.cpp
+	"console.h"
+	<conio.h>
+	<allegro.h>
+	<winalleg.h>
+
+1461007918 source:c:\users\selin\onedrive\documents\graphes\utils\coord.cpp
+	"coord.h"
+
+1461010857 source:c:\users\selin\onedrive\documents\graphes\main.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	"bruteforce.h"
+	<iostream>
+
+1461007558 c:\users\selin\onedrive\documents\graphes\bruteforce.h
+	"maze.h"
+	"utils/coord.h"
+	"graphic.h"
+	"iostream"
+
+1461007558 source:c:\users\selin\onedrive\documents\graphes\bruteforce.cpp
+	"bruteforce.h"
+	"winalleg.h"
+
